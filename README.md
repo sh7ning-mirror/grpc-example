@@ -1,5 +1,7 @@
 # grpc-example
 
+[gRPC Go 服务发现与负载均衡](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/)
+
 > go grpc example
 
 - grpc client load balance example
