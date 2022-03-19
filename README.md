@@ -2,6 +2,10 @@
 
 [gRPC Go 服务发现与负载均衡](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/) 同 [gRPC Go 服务发现与负载均衡.md](./grpc-go-discovery-lb.md) 
 
+参考：
+
+* [RPC框架解析：gRPC服务发现](http://ldaysjun.com/2020/04/21/rpc/rpc5/)
+
 > go grpc example
 
 - grpc client load balance example
