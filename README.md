@@ -1,6 +1,6 @@
 # grpc-example
 
-[gRPC Go 服务发现与负载均衡](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/) 同 [gRPC Go 服务发现与负载均衡](./grpc-go-discovery-lb.md) 
+[gRPC Go 服务发现与负载均衡](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/) 同 [gRPC Go 服务发现与负载均衡.md](./grpc-go-discovery-lb.md) 
 
 > go grpc example
 
